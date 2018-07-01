@@ -1,0 +1,8 @@
+node_modules
+.idea
+src/.idea
+.DS_Store
+*.log
+reports
+npm-shrinkwrap.json
+yarn.lock
